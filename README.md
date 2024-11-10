@@ -44,7 +44,7 @@ Support the Environment: Reduce single-use plastic waste by choosing to refill.
 
 Enhance Public Data: Help make your city smarter by contributing valuable location data and reviews.
 
-Join the Water Revolution!
+# Join the Water Revolution!
 
 Whether you’re rushing between meetings, on a scenic city walk, or simply exploring a new neighborhood, AquaFinder is your essential tool for seamless hydration. Together, we can build a future where staying healthy is easy, urban infrastructure is sustainable, and plastic waste is minimized.
 
