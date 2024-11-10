@@ -18,11 +18,11 @@ Full Name: Akshaya Ramachandran <br/>
 
 Imagine a world where staying hydrated and finding clean, accessible water is just a tap away. Charlie, the innovative iOS app designed to keep you refreshed, healthy, and environmentally conscious by connecting you to the nearest water fountains and refill stations in your city.
 
-Why Charlie?
+# Why Charlie?
 
 In the hustle and bustle of daily life, we often forget the simplest, most crucial habit: drinking enough water. AquaFinder steps in as your personal hydration assistant, guiding you to the closest sources of potable water, ensuring that busy schedules don’t come at the cost of your well-being.
 
-Key Features:
+# Key Features:
 
 Real-Time Location Services: Quickly locate the nearest water fountains and refill stations with pinpoint accuracy.
 
@@ -32,11 +32,11 @@ Health Reminders: Customizable notifications to remind you when it’s time to h
 
 Eco-Friendly Focus: Reduce plastic waste by refilling your reusable water bottle, contributing to smarter, greener urban living.
 
-Impact on Smart City Infrastructure:
+# Impact on Smart City Infrastructure:
 
-AquaFinder aligns perfectly with the goals of smart city initiatives by promoting sustainable practices and enhancing public access to essential resources. By integrating real-time data and user feedback, cities can optimize their water distribution points, improve public health infrastructure, and support eco-friendly urban environments.
+Charlie aligns perfectly with the goals of smart city initiatives by promoting sustainable practices and enhancing public access to essential resources. By integrating real-time data and user feedback, cities can optimize their water distribution points, improve public health infrastructure, and support eco-friendly urban environments.
 
-Benefits for You and the Planet:
+# Benefits for You and the Planet:
 
 Stay Healthy: Regular hydration boosts your energy, focus, and overall health.
 
