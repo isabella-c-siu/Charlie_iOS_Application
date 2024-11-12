@@ -46,6 +46,6 @@ Enhance Public Data: Help make your city smarter by contributing valuable locati
 
 # Join the Water Revolution!
 
-Whether you’re rushing between meetings, on a scenic city walk, or simply exploring a new neighborhood, AquaFinder is your essential tool for seamless hydration. Together, we can build a future where staying healthy is easy, urban infrastructure is sustainable, and plastic waste is minimized.
+Whether you’re rushing between meetings, on a scenic city walk, or simply exploring a new neighborhood, Charlie is your essential tool for seamless hydration. Together, we can build a future where staying healthy is easy, urban infrastructure is sustainable, and plastic waste is minimized.
 
 Download Charlie today, and turn every corner of your city into an opportunity to stay refreshed, connected, and environmentally conscious.
