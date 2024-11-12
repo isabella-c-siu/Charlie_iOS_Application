@@ -20,7 +20,7 @@ Imagine a world where staying hydrated and finding clean, accessible water is ju
 
 # Why Charlie?
 
-In the hustle and bustle of daily life, we often forget the simplest, most crucial habit: drinking enough water. AquaFinder steps in as your personal hydration assistant, guiding you to the closest sources of potable water, ensuring that busy schedules don’t come at the cost of your well-being.
+In the hustle and bustle of daily life, we often forget the simplest, most crucial habit: drinking enough water. Charlie steps in as your personal hydration assistant, guiding you to the closest sources of potable water, ensuring that busy schedules don’t come at the cost of your well-being.
 
 # Key Features:
 
