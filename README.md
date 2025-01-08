@@ -1,4 +1,4 @@
-# HackRPI2024
+# Charlie App
 
 ## Our Team: ##
 
